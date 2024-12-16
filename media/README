@@ -1,0 +1,28 @@
+Analysis of Media Ratings Dataset
+
+## Data Description
+The `media.csv` file contains ratings of movies, TV series, and books provided by course faculty. Key columns include:
+- **Title**: The name of the media item.
+- **Type**: The category (e.g., Movie, TV Series, Book).
+- **Genre**: The primary genre classification.
+- **Faculty Rating**: A subjective rating provided by faculty members.
+
+## Analysis Carried Out
+The analysis involved:
+1. **Rating Trends**:
+   - Distribution of ratings by type and genre.
+2. **Genre Preferences**:
+   - Identifying genres with the highest average ratings.
+3. **Comparison**:
+   - Analyzing differences in ratings between media types (e.g., books vs. movies).
+
+## Key Insights
+- **Media Type Preferences**: TV series received the highest average ratings compared to movies and books.
+- **Top Genres**: Drama and Science Fiction consistently received higher ratings across media types.
+- **Rating Distribution**: Faculty ratings were skewed positively, with few items rated below average.
+
+## Implications
+These findings suggest:
+- Faculty might prioritize TV series and drama/science fiction for future recommendations.
+- Positive biases in faculty ratings may indicate the need for a standardized rating system.
+- Course-related media recommendations could incorporate these preferences to enhance engagement.
